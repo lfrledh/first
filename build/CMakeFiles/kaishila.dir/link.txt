@@ -1,0 +1,2 @@
+/usr/bin/ar qc libkaishila.a CMakeFiles/kaishila.dir/kaishila.cpp.o
+/usr/bin/ranlib libkaishila.a
