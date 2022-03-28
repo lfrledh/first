@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyS3",
+    "sketch": "../../Arduino/50mm_f1.4/50mm_f1.4.ino"
+}
